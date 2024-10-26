@@ -20,7 +20,7 @@ ____
 ## Installation
 
 ```
-git clone https://github.com/IgnIVertiKalCaD/asus-UX482-fan-control
+git clone https://github.com/muxal37/asus-fan-control
 
 ```
 ____
