@@ -20,7 +20,7 @@ ____
 ## Installation
 
 ```
-git clone https://github.com/muxal37/asus-fan-control
+git clone https://github.com/IgnIVertiKalCaD/asus-fan-control
 
 ```
 ____
